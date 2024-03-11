@@ -1,5 +1,4 @@
 Projeto do Curso Python para Análise de Dados
 
-Realizado no Google Colab
-
+Realizado no Kaggle
 Setembro/2023
