@@ -1,0 +1,5 @@
+Projeto do Curso SQL para Análise de Dados
+
+Realizado no Kaggle
+
+Setembro/2023
